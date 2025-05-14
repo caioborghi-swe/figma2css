@@ -1,4 +1,3 @@
-#!/usr/bin/env bun
 import { readFileSync, writeFileSync } from 'fs';
 
 // Input and output file paths

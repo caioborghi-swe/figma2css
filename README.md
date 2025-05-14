@@ -17,12 +17,12 @@ A utility for working with design tokens in CSS. This project converts an `expor
 
 Using node:
 ```bash
-node convert-design-tokens.js export.json tokens.css
+node convert.js export.json tokens.css
 ```
 
 Using Bun:
 ```bash
-bun convert-design-tokens.js export.json tokens.css
+bun convert.js export.json tokens.css
 ```
 
 Where the first param is the input json file and the second param is the output css file.
